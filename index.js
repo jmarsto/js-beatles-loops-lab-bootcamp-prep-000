@@ -19,7 +19,7 @@ function johnLennonFacts(array) {
 function iLoveTheBeatles(num) {
   var arr = []
   do {
-    arr.fill() = "I love the Beatles!"
+    arr.fill("I love the Beatles!", 
   num++
     return arr
   }
